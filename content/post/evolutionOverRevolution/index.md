@@ -6,7 +6,7 @@ categories:
     - post
 tags:
     - AI
-    - though
+    - thought
 ---
 
 >   The main reason for this post is that
