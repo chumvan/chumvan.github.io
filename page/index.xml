@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Trung Van</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on Trung Van</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I hesitated for a while about making this page.
+Many people including me dislike long pages of text. However, there are occasions where they are needed.
+Who knows, there could be people who actually like to process this information like that.
+Personally, I believe a face-to-face meeting serves as the best CV of mine.
+If you are like me, contact me using the contact in the end of this post! Otherwise, have fun skimming through my career life (till now) ;).&lt;/p>
+&lt;p>&lt;em>I certainly will update this page till I find a better way to log this kind of information.&lt;/em>&lt;/p>
+&lt;h2 id="1-field-of-knowledge">1. Field of knowledge&lt;/h2>
+&lt;ul>
+&lt;li>Streaming and Event-based system | Cloud Native Solutions&lt;/li>
+&lt;li>AI/ML application | Signal Processing | Computer Vision&lt;/li>
+&lt;li>Industrial IoT | 5G | Computer Networking | Information Modeling&lt;/li>
+&lt;/ul>
+&lt;h2 id="2-tech-stack">2. Tech stack&lt;/h2>
+&lt;h3 id="programming">Programming&lt;/h3>
+&lt;ul>
+&lt;li>Golang for transport and application layer programs&lt;/li>
+&lt;li>Python for AI/ML tasks and automation&lt;/li>
+&lt;li>Bash for Linux environment daily usage&lt;/li>
+&lt;li>C/C++ for prototyping with Arduino or ESP32&lt;/li>
+&lt;li>Scala for big data processing&lt;/li>
+&lt;li>Matlab for optimization research or process automation&lt;/li>
+&lt;li>JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface&lt;/li>
+&lt;/ul>
+&lt;h3 id="database">Database&lt;/h3>
+&lt;ul>
+&lt;li>SQL| MongoDB | influxDB&lt;/li>
+&lt;/ul>
+&lt;h3 id="fundamental-knowledge-in-cloud">Fundamental knowledge in Cloud&lt;/h3>
+&lt;ul>
+&lt;li>AWS: S3 | IoTCore | Lambda | DynamoDB&lt;/li>
+&lt;li>OpenStack&lt;/li>
+&lt;li>Azure: Basic training | ML Lab&lt;/li>
+&lt;li>Infrastructure as Code with Terraform and Ansible&lt;/li>
+&lt;/ul>
+&lt;h3 id="aiml-hands-on">AI/ML hands-on&lt;/h3>
+&lt;ul>
+&lt;li>sklearn, keras, pytorch, tensorflow&lt;/li>
+&lt;li>openAI API tinkering&lt;/li>
+&lt;li>huggingface&lt;/li>
+&lt;/ul>
+&lt;h3 id="devops">DevOps&lt;/h3>
+&lt;ul>
+&lt;li>Virtualization with Vagrant and Multipass&lt;/li>
+&lt;li>Tools and Platforms: GitHub | GitLab | Jfrog&lt;/li>
+&lt;li>GitActions for CI/CD&lt;/li>
+&lt;li>Applying containerization and orchestration using Docker and Kubernetes&lt;/li>
+&lt;li>Services and applications for higher productivity as Heroku&lt;/li>
+&lt;li>Monitoring system with Prometheus&lt;/li>
+&lt;/ul>
+&lt;h3 id="documentation">Documentation&lt;/h3>
+&lt;ul>
+&lt;li>A fluent level of scientific writing&lt;/li>
+&lt;li>Capable to deliver enterprise level documentation&lt;/li>
+&lt;li>Daily tools: Latex, MermaidJS, and PlantUML.&lt;/li>
+&lt;/ul>
+&lt;h3 id="web-tech">Web tech&lt;/h3>
+&lt;ul>
+&lt;li>Nodejs | Express | React for a fullstack web prototype&lt;/li>
+&lt;li>MaterialUI | Semantic UI React for UI&lt;/li>
+&lt;li>Swagger | OpenAPI for API planning and documentation&lt;/li>
+&lt;/ul>
+&lt;h3 id="testing-frameworks">Testing frameworks&lt;/h3>
+&lt;ul>
+&lt;li>Jest | Cypress | Supertest | Testing library&lt;/li>
+&lt;/ul>
+&lt;h3 id="connectivity">Connectivity:&lt;/h3>
+&lt;ul>
+&lt;li>API design architecture in REST | GraphQL&lt;/li>
+&lt;li>Data-transport plane protocols RTP/RTCP&lt;/li>
+&lt;li>WebRTC for web real-time media and data transmission&lt;/li>
+&lt;li>Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE&lt;/li>
+&lt;li>Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT&lt;/li>
+&lt;li>Industrial communication protocols Profibus | EtherCAT | CAN | CANopen&lt;/li>
+&lt;/ul>
+&lt;h3 id="gui">GUI&lt;/h3>
+&lt;ul>
+&lt;li>Qt | Thingspeak | Thingsboard&lt;/li>
+&lt;/ul>
+&lt;h3 id="visualization">Visualization&lt;/h3>
+&lt;ul>
+&lt;li>D3js | Plotly | Grafana&lt;/li>
+&lt;/ul>
+&lt;h3 id="electrical-skills">Electrical skills&lt;/h3>
+&lt;ul>
+&lt;li>Design | safety | installation&lt;/li>
+&lt;/ul>
+&lt;h3 id="automation-and-embedded">Automation and Embedded:&lt;/h3>
+&lt;ul>
+&lt;li>PLC | SCADA | HMI | MES | Applied Robotics&lt;/li>
+&lt;li>OPC UA | FIWARE | JADE | ROS&lt;/li>
+&lt;li>Process planning | Distributed Intelligence&lt;/li>
+&lt;li>Able to prototype using Microcontrollers like Arduino or ESP32 and Microprocessor like Raspberry Pi&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-tools">More tools&lt;/h3>
+&lt;ul>
+&lt;li>Make | SSH | Vim | Qt Creator&lt;/li>
+&lt;li>Postman | Visual Studio&lt;/li>
+&lt;li>Matlab | LabView | Codesys | Fusion | Prosys&lt;/li>
+&lt;li>Notion | Obsidian&lt;/li>
+&lt;/ul>
+&lt;h2 id="3-experience">3. Experience&lt;/h2>
+&lt;p>This is a short list of the position I have been (gratefully) working in for the last few years.
+For longer descriptions, click on any link you can find.&lt;/p>
+&lt;h3 id="ericsson-finland">Ericsson Finland&lt;/h3>
+&lt;p>&lt;em>IoT research team&lt;/em>&lt;/p>
+&lt;p>As a Research trainee and then a full-time Researcher, I worked on&lt;/p>
+&lt;ul>
+&lt;li>IoT Streaming research | one patent submitted&lt;/li>
+&lt;li>Scientific documentation and presentation&lt;/li>
+&lt;li>Signaling &amp;amp; Data Transferring System prototyping&lt;/li>
+&lt;/ul>
+&lt;h3 id="tampere-universities">Tampere Universities&lt;/h3>
+&lt;p>&lt;a class="link" href="https://webpages.tuni.fi/arg/" target="_blank" rel="noopener"
+>&lt;em>Audio Lab&lt;/em>&lt;/a>&lt;/p>
+&lt;p>As a Research Assistant, I worked for the following tasks&lt;/p>
+&lt;ul>
+&lt;li>Preliminary tasks for the audio source localization project&lt;/li>
+&lt;li>Data collection and labeling&lt;/li>
+&lt;li>Scientific experiment design&lt;/li>
+&lt;/ul>
+&lt;p>&lt;em>&lt;a class="link" href="https://www.tuni.fi/en/research/fast-lab" target="_blank" rel="noopener"
+>FAST lab&lt;/a> - &lt;a class="link" href="https://charm-ecsel.eu/" target="_blank" rel="noopener"
+>CHARM EU Project&lt;/a>&lt;/em>&lt;/p>
+&lt;p>As a core developer and a Research Assistant, I contributed to the following tasks:&lt;/p>
+&lt;ul>
+&lt;li>Apply and test the performance of the IoT framework for industrial cases:
+&lt;ul>
+&lt;li>&lt;strong>Sandvik&lt;/strong>: Telemetry monitoring for the mining environment&lt;/li>
+&lt;li>&lt;strong>Valmet&lt;/strong>: Paper roll machine condition monitoring&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Data management solution investigation and deployment&lt;/li>
+&lt;/ul>
+&lt;h3 id="aalto-university">Aalto University&lt;/h3>
+&lt;p>&lt;em>REMOS TUTLI Project &amp;amp; REMOS start-up&lt;/em>&lt;/p>
+&lt;p>First as a Research Assistant in the research and then the only IT engineer in the start-up, I contributed in:&lt;/p>
+&lt;ul>
+&lt;li>Designed a bright bolt to gather, process, and report stress data applied for deep mines in soft real-time.&lt;/li>
+&lt;li>Deployed a time-series system for storage, processing, visualization, and evaluate strain data.&lt;/li>
+&lt;li>Deploy and test performance for 20 devices in a network with Zigbee as the communication protocol in constraint conditions.
+Key learning: applied machine learning, software development, system design, networking, electronic design, innovation, and business development&lt;/li>
+&lt;/ul>
+&lt;h3 id="tentrio-company">Tentrio Company&lt;/h3>
+&lt;p>As an IoT developer and also a thesis worker achieved some learning as following:&lt;/p>
+&lt;ul>
+&lt;li>Investigated, designed, and implemented a device to measure and visualize an animal’s heart rate on web-app&lt;/li>
+&lt;li>Result: A small system to measure big animal heart-rate including
+&lt;ul>
+&lt;li>portable custom stethoscope + filter circuit&lt;/li>
+&lt;li>the aggregate and pre-processing device from Arduino&lt;/li>
+&lt;li>web app to visualize ECG of animals with low latency and D3 plotting GUI
+Key learning: Signal processing, web, visualization, circuit design&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="danang-heineken-brewery-factory">Danang Heineken Brewery Factory&lt;/h3>
+&lt;p>As an Automation engineer, I worked (in a completely sober state) with beer and beer making processes:&lt;/p>
+&lt;ul>
+&lt;li>Maintenance-trouble shooting Can &amp;amp; Bottle Automation Lines&lt;/li>
+&lt;li>Responsible for Analyze-review process automation including PLC | HMI programs | test software-hardware.&lt;/li>
+&lt;/ul>
+&lt;h2 id="4-education">4. Education&lt;/h2>
+&lt;h3 id="tampere-unversities">Tampere Unversities&lt;/h3>
+&lt;p>&lt;em>Master Degree of Industrial Informatics - GPA: 4.15/5&lt;/em>&lt;/p>
+&lt;p>Focus study:&lt;/p>
+&lt;ul>
+&lt;li>IoT/IIoT&lt;/li>
+&lt;li>AI/ML | Signal Processing&lt;/li>
+&lt;li>Industrial Communication | Robotics&lt;/li>
+&lt;/ul>
+&lt;h3 id="university-of-helsinki">University of Helsinki&lt;/h3>
+&lt;p>&lt;em>Open University&lt;/em>&lt;/p>
+&lt;p>Web and modern software development:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://drive.google.com/file/d/1HDgy9UccJI01-ZF5vheAUO7RVdBY8Alq/view?usp=sharing" target="_blank" rel="noopener"
+>Full-stack Web Dev&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://studies.cs.helsinki.fi/stats/api/certificate/docker2021/en/b625c07f618db407f669412242d9b120" target="_blank" rel="noopener"
+>DevOps with Docker&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="university-of-applied-science-nancy-brabois">University of Applied Science Nancy-Brabois&lt;/h3>
+&lt;p>&lt;em>Intensive project&lt;/em>&lt;/p>
+&lt;p>Participate in the &amp;ldquo;Saving local species&amp;rdquo; project by building an &amp;ldquo;Environment parameter tracking totems using Xbee module.&amp;rdquo;&lt;/p>
+&lt;h3 id="seoul-national-university-of-science-and-tech">Seoul National University of Science and Tech&lt;/h3>
+&lt;p>&lt;em>Exchange study - GPA: 91/100&lt;/em>&lt;/p>
+&lt;p>Certificate: &lt;a class="link" href="https://drive.google.com/file/d/1v9Cwq4ZLAlzIxKMiSpkFT04wRhK24pvb/view?usp=sharing" target="_blank" rel="noopener"
+>Rank 32th&lt;/a> Seoul Asia Regional Round &lt;a class="link" href="https://icpc.global/" target="_blank" rel="noopener"
+>ACM-ICPC&lt;/a>
+Focus study:&lt;/p>
+&lt;ul>
+&lt;li>Multi-media technology | Data compression&lt;/li>
+&lt;li>Control Engineering&lt;/li>
+&lt;li>Korean&lt;/li>
+&lt;/ul>
+&lt;h3 id="häme-university-of-applied-sciences">Häme University of Applied Sciences&lt;/h3>
+&lt;p>&lt;em>Bachelor Degree of Automation and Electrical Engineering - GPA: 3.8/5&lt;/em>&lt;/p>
+&lt;p>Focus:&lt;/p>
+&lt;ul>
+&lt;li>Industrial Automation &amp;amp; Electrical&lt;/li>
+&lt;li>IIoT/ Signal Processing&lt;/li>
+&lt;li>Embedded system&lt;/li>
+&lt;/ul>
+&lt;h2 id="5-projects">5. Projects&lt;/h2>
+&lt;h3 id="aiml-applications">AI/ML applications&lt;/h3>
+&lt;h4 id="kaggle">Kaggle&lt;/h4>
+&lt;p>&lt;a class="link" href="https://www.kaggle.com/c/bird-audio-detection" target="_blank" rel="noopener"
+>&lt;em>Competition Audio Detection&lt;/em>&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>~5000 records with/ without bird sounds&lt;/li>
+&lt;li>investigate and reshape data: pandas | plotly&lt;/li>
+&lt;li>apply Mel-bands, FFT points, overlap, and TensorFlow to train a model with a score of 0.708&lt;/li>
+&lt;/ul>
+&lt;h4 id="python-for-aiml">Python for AI/ML&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/REMOS_RPI" target="_blank" rel="noopener"
+>Smart bolt for strain monitoring&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/unicycle-mobile-robot-control" target="_blank" rel="noopener"
+>Unicycle robot control&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/audio_anomaly_detection" target="_blank" rel="noopener"
+>Acoustic predictive maintenance&lt;/a> with triplet network - &lt;a class="link" href="https://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds" target="_blank" rel="noopener"
+>DCASE challenge 2021&lt;/a>&lt;/li>
+&lt;li>Audio signal alignment&lt;/li>
+&lt;li>Audio anomaly detection using embeddings&lt;/li>
+&lt;li>Signal sources separation&lt;/li>
+&lt;li>Multiple projects work applying:
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/ComputerVisionTUT2020" target="_blank" rel="noopener"
+>Yolo/SSD&lt;/a>&lt;/li>
+&lt;li>image/audio classification&lt;/li>
+&lt;li>Linear regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Predictive propeller maintenance:
+&lt;ul>
+&lt;li>analyze propeller model from Fusion&lt;/li>
+&lt;li>predict downtime using Linear Regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="matlab">MATLAB&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/EEG_spectral_analysis" target="_blank" rel="noopener"
+>EEG&lt;/a> and &lt;a class="link" href="https://github.com/chumvan/BSA" target="_blank" rel="noopener"
+>ECG&lt;/a> signal processing&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/spectral_entropy_DOA" target="_blank" rel="noopener"
+>Spectral entropy analysis&lt;/a>&lt;/li>
+&lt;li>Digital scale for continuous measurement&lt;/li>
+&lt;li>Real-time strain monitoring from displacement&lt;/li>
+&lt;li>Multiple signal and image processing applications&lt;/li>
+&lt;/ul>
+&lt;h3 id="software-development">Software Development&lt;/h3>
+&lt;h4 id="golang">Golang&lt;/h4>
+&lt;p>&lt;em>Content delivery and transport layer application&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Golang wrapper for Raspberry Pi SenseHat - &lt;a class="link" href="https://github.com/chumvan/gopysense" target="_blank" rel="noopener"
+>gopysense&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/t140" target="_blank" rel="noopener"
+>T140&lt;/a> packet format based on &lt;a class="link" href="https://datatracker.ietf.org/doc/html/rfc4103" target="_blank" rel="noopener"
+>RFC4103&lt;/a>&lt;/li>
+&lt;li>Microservices implementation:
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/sipRestServer" target="_blank" rel="noopener"
+>SIP-REST translator&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/confdb" target="_blank" rel="noopener"
+>Associate a Conference to a Topic&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="fullstack">Fullstack&lt;/h4>
+&lt;p>&lt;em>Blog list full-stack app&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/fullstackopen-2021" target="_blank" rel="noopener"
+>Web dev practice&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/bloglist-frontend" target="_blank" rel="noopener"
+>Frontend&lt;/a>: React &amp;amp; Material UI&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/bloglist-backend" target="_blank" rel="noopener"
+>Backend&lt;/a>: MongoDB, NodeJS and Express&lt;/li>
+&lt;li>Testing: Cypress and Jest&lt;/li>
+&lt;li>Deploy: Docker &amp;amp; Heroku&lt;/li>
+&lt;/ul>
+&lt;h4 id="backend">Backend&lt;/h4>
+&lt;p>&lt;a class="link" href="https://github.com/chumvan/fullstackopen-2021/tree/main/part8" target="_blank" rel="noopener"
+>&lt;em>Library app&lt;/em>&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Explore an alternative for communication between browser and server&lt;/li>
+&lt;li>GraphQL(Apollo Client and Server) and Express&lt;/li>
+&lt;/ul>
+&lt;h4 id="aws-using-python">AWS using Python&lt;/h4>
+&lt;p>&lt;em>Auto backup folder&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>An automated process to save CSV files triggered by any change in a selected folder&lt;/li>
+&lt;li>Services: AWS S3 and AWS Lambda&lt;/li>
+&lt;/ul>
+&lt;h4 id="mqtt">MQTT&lt;/h4>
+&lt;p>&lt;em>Implemented a broker in a Raspberry Pi&lt;/em>&lt;/p>
+&lt;h4 id="c">C++&lt;/h4>
+&lt;ul>
+&lt;li>An interactive card game applied OOP concepts for backend and Qt GUI for frontend&lt;/li>
+&lt;li>Many projects during the data structure courses&lt;/li>
+&lt;/ul>
+&lt;h2 id="self-motivated-learning">Self-motivated Learning&lt;/h2>
+&lt;ul>
+&lt;li>Stream processing with Apache Flink and Flume
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://learning.oreilly.com/library/view/stream-processing-with/9781491974285/" target="_blank" rel="noopener"
+>&amp;ldquo;Streaming Processing with Apache Flink&amp;rdquo;&lt;/a> by Fabian Hueske and Vasiliki Kalavri&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cloud computing:
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/" target="_blank" rel="noopener"
+>&amp;ldquo;Cloud native Go&amp;rdquo;&lt;/a> by Matthew A. Titmus&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url" target="_blank" rel="noopener"
+>AZ-900 Certificate&lt;/a>&lt;/li>
+&lt;li>AI-900 Certificate - Exam in March 2023&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH" target="_blank" rel="noopener"
+>IoT Wireless &amp;amp; Cloud Computing Emerging Technologies&lt;/a> from Yonsei University&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK" target="_blank" rel="noopener"
+>Fundamental of Parallelism on Intel Architect&lt;/a>&lt;/li>
+&lt;li>Multiple trainings from the IT Center for Science (CSC-Finland) like &lt;a class="link" href="https://www.futurelearn.com/certificates/dlwcy9a" target="_blank" rel="noopener"
+>Supercomputing&lt;/a> from PRACE.&lt;/li>
+&lt;li>Mathematics
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/LW7CZD68CS69" target="_blank" rel="noopener"
+>Linear Regression and Modeling&lt;/a> from Duke University&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/FAVDLP64EKNP" target="_blank" rel="noopener"
+>Introduction to Probability and Data with R&lt;/a> from Duke University&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="6-referees">6. Referees&lt;/h2>
+&lt;ul>
+&lt;li>IoT Expert Ari Keränen from Ericsson: ari.keranen[at]ericsson.com&lt;/li>
+&lt;li>Professor Tuomas Virtanen from Tampere Universities: tuomas.virtanen[at]tuni.fi&lt;/li>
+&lt;li>Professor Jose Lastra from Tampere Univerisities: jose.martinezlastra[at]tuni.fi&lt;/li>
+&lt;li>Professor Rinne Mikael from Aalto University: mikael.rinne[at]aalto.fi&lt;/li>
+&lt;li>Dr.Sc Tech Juhani Henttonen from HAMK: juhani.henttonen[at]hamk.fi&lt;/li>
+&lt;/ul></description></item><item><title>Archives</title><link>https://chumvan.github.io/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/archives/</guid><description/></item><item><title>Contact</title><link>https://chumvan.github.io/page/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/contact/</guid><description>&lt;ul>
+&lt;li>Full name: Van Huu Thanh Trung&lt;/li>
+&lt;li>Email: &lt;a class="link" href="mailto:vanhuuthanhtrung@gmail.com" >vanhuuthanhtrung@gmail.com&lt;/a>&lt;/li>
+&lt;li>Tel: +358 413134992&lt;/li>
+&lt;li>Language: EN | VN&lt;/li>
+&lt;/ul></description></item><item><title>Search</title><link>https://chumvan.github.io/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/search/</guid><description/></item></channel></rss>
