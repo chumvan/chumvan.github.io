@@ -8,7 +8,7 @@ tags:
     - "experience"
 ---
 
-## The inception
+## The experience
 
 I was in the E3 training program provided by super mentors from Ericsson last month. This program is designed to help employees develop their intrinsic motivation and live/work in harmony with their co-workers. It was a three-day journey full of learning, insights and fun!
 
