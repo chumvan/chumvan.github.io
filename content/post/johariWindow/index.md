@@ -2,6 +2,8 @@
 title: "Johari's Window"
 date: 2023-03-05T11:37:15+02:00
 draft: false
+slug: johari-window
+image: cover.jpg
 categories:
     - "post"
 tags:
@@ -36,4 +38,6 @@ If you want to try this technique for yourself, you can use this online tool tha
 
 Should we read more about this idea, together? I found this [book](https://www.goodreads.com/book/show/24332870-the-johari-window) interesting.
 
-> Amazing image from [Night Cafe Studio](https://creator.nightcafe.studio/creation/Imh5dYRTiiM0iroxBRre)
+> [1] Image cover from [twitter](https://twitter.com/KaliYuga_ai/status/1505333600870445068?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1505333600870445068%7Ctwgr%5E1c5bdad4ffb6f37917fbecc65a584e207fd27634%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fboingboing.net%2F2022%2F03%2F24%2Fmidjourney-sharpens-style-of-ai-art.html)
+
+> [2]Amazing image from [Night Cafe Studio](https://creator.nightcafe.studio/creation/Imh5dYRTiiM0iroxBRre)

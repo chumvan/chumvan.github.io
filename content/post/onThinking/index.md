@@ -2,6 +2,7 @@
 title: "On thinking"
 date: 2023-02-25T13:45:00+02:00
 draft: false
+image: cover.jpg
 categories:
     - post
 tags:
@@ -21,5 +22,6 @@ I’m still figuring out how to apply this to my own life, but here are a few th
 
 The answer to many of our problems may not be absolute, but the solutions start with the right attitude. So why not give it a try?
 
+> Amazing cover from [openart](https://openart.ai/discovery/md-16ca8d1e-03c3-4afc-b975-a9bb49bac6c3)
 
->[1] Image from [reddit](https://www.reddit.com/r/adhdmeme/comments/xb02u8/i_put_adhd_in_an_image_generating_ai_this_is_what/)*
+> [1] Image from [reddit](https://www.reddit.com/r/adhdmeme/comments/xb02u8/i_put_adhd_in_an_image_generating_ai_this_is_what/)*

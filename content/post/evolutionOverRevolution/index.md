@@ -2,11 +2,12 @@
 title: "Evolution over Revolution"
 date: 2023-03-01T21:15:16+02:00
 draft: false
+image: cover.jpg
 categories:
-    - post
+    - "post"
 tags:
-    - AI
-    - thought
+    - "AI"
+    - "thought"
 ---
 
 >   The main reason for this post is that
@@ -48,3 +49,7 @@ Cheers
 Us?
 
 "
+
+> [1] Fantastic cover from [reddit](https://www.reddit.com/r/deepdream/comments/x1v08o/evolution_of_man_so_you_think_you_can_dance/)
+
+> [2] Image from [hatrabbit](https://hatrabbits.com/en/the-evolution-of-ideas-1/)
