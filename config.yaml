@@ -5,7 +5,7 @@ title: "Trung Van"
 languages:
   en:
     languageName: English
-    title: Trung Van
+    title: readme.md
     description: a blog about technology, programming, and life
     weight: 1
 DefaultContentLanguage: en
@@ -24,11 +24,11 @@ params:
 
   sidebar:
     compact: false
-    subtitle: "on the (pla)net"
+    subtitle: "brain dump for me, but maybe useful for you too"
     avatar:
       enabled: true
       local: true
-      src: img/avatar.jpg
+      src: img/frog.png
   article:
     math: false
     toc: true

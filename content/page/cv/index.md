@@ -23,87 +23,12 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 
 *I certainly will update this page till I find a better way to log this kind of information.*
 
-## 1. Field of knowledge 
+## Field of knowledge 
 - Streaming and Event-based system | Cloud Native Solutions
 - AI/ML application | Signal Processing | Computer Vision
 - Industrial IoT | 5G | Computer Networking | Information Modeling
 
-## 2. Tech stack
-
-### Programming
-- Golang for transport and application layer programs
-- Python for AI/ML tasks and automation
-- Bash for Linux environment daily usage
-- C/C++ for prototyping with Arduino or ESP32
-- Scala for big data processing
-- Matlab for optimization research or process automation
-- JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface
-
-### Database
-- SQL| MongoDB | influxDB
-
-### Fundamental knowledge in Cloud
-- AWS: S3 | IoTCore | Lambda | DynamoDB
-- OpenStack
-- Azure: Basic training | ML Lab
-- Infrastructure as Code with Terraform and Ansible
-
-### AI/ML hands-on
-- sklearn, keras, pytorch, tensorflow
-- openAI API tinkering
-- huggingface
-
-### DevOps
-- Virtualization with Vagrant and Multipass
-- Tools and Platforms: GitHub | GitLab | Jfrog
-- GitActions for CI/CD
-- Applying containerization and orchestration using Docker and Kubernetes
-- Services and applications for higher productivity as Heroku 
-- Monitoring system with Prometheus
-
-### Documentation
-- A fluent level of scientific writing
-- Capable to deliver enterprise level documentation
-- Daily tools: Latex, MermaidJS, and PlantUML.
-
-### Web tech
-- Nodejs | Express | React for a fullstack web prototype
-- MaterialUI | Semantic UI React for UI
-- Swagger | OpenAPI for API planning and documentation
-
-### Testing frameworks
-- Jest | Cypress | Supertest | Testing library 
-
-### Connectivity: 
-- API design architecture in REST | GraphQL
-- Data-transport plane protocols RTP/RTCP 
-- WebRTC for web real-time media and data transmission
-- Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE
-- Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT
-- Industrial communication protocols Profibus | EtherCAT | CAN | CANopen
-
-### GUI
-- Qt | Thingspeak | Thingsboard
-
-### Visualization
-- D3js | Plotly | Grafana
-
-### Electrical skills
-- Design | safety | installation
-
-### Automation and Embedded:
-- PLC | SCADA | HMI | MES | Applied Robotics 
-- OPC UA | FIWARE | JADE | ROS
-- Process planning | Distributed Intelligence
-- Able to prototype using Microcontrollers like Arduino or ESP32 and Microprocessor like Raspberry Pi
-
-### More tools
-- Make | SSH | Vim | Qt Creator
-- Postman | Visual Studio
-- Matlab | LabView | Codesys | Fusion | Prosys
-- Notion | Obsidian
-
-## 3. Experience
+## Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 
 For longer descriptions, click on any link you can find.
 
@@ -154,9 +79,82 @@ As an Automation engineer, I worked (in a completely sober state) with beer and 
 - Maintenance-trouble shooting Can & Bottle Automation Lines
 - Responsible for Analyze-review process automation including PLC | HMI programs | test software-hardware.
 
+## Tech stack
 
+### Programming
+- Golang for transport and application layer programs
+- Python for AI/ML tasks and automation
+- Bash for Linux environment daily usage
+- C/C++ for prototyping with Arduino or ESP32
+- Scala for big data processing
+- Matlab for optimization research or process automation
+- JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface
 
-## 4. Education
+### Database
+- SQL| MongoDB | influxDB
+
+### Fundamental knowledge in Cloud
+- AWS: S3 | IoTCore | Lambda | DynamoDB
+- OpenStack
+- Azure: Basic training | ML Lab
+- Infrastructure as Code with Terraform and Ansible
+
+### AI/ML hands-on
+- sklearn, keras, pytorch, tensorflow
+- openAI API tinkering
+- huggingface
+
+### DevOps
+- Virtualization with Vagrant and Multipass
+- Tools and Platforms: GitHub | GitLab | Jfrog
+- GitActions for CI/CD
+- Applying containerization and orchestration using Docker and Kubernetes
+- Services and applications for higher productivity as Heroku 
+- Monitoring system with Prometheus
+
+### Documentation
+- A fluent level of scientific writing
+- Capable to deliver enterprise level documentation
+- Daily tools: Latex, MermaidJS, and PlantUML.
+
+### Web tech
+- Nodejs | Express | React for a fullstack web prototype
+- MaterialUI | Semantic UI React for UI
+- Swagger | OpenAPI for API planning and documentation
+
+### Testing frameworks
+- Jest | Cypress | Supertest | Testing library 
+
+### Connectivity
+- API design architecture in REST | GraphQL
+- Data-transport plane protocols RTP/RTCP 
+- WebRTC for web real-time media and data transmission
+- Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE
+- Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT
+- Industrial communication protocols Profibus | EtherCAT | CAN | CANopen
+
+### GUI
+- Qt | Thingspeak | Thingsboard
+
+### Visualization
+- D3js | Plotly | Grafana
+
+### Electrical skills
+- Design | safety | installation
+
+### Automation and Embedded
+- PLC | SCADA | HMI | MES | Applied Robotics 
+- OPC UA | FIWARE | JADE | ROS
+- Process planning | Distributed Intelligence
+- Able to prototype using Microcontrollers like Arduino or ESP32 and Microprocessor like Raspberry Pi
+
+### More tools
+- Make | SSH | Vim | Qt Creator
+- Postman | Visual Studio
+- Matlab | LabView | Codesys | Fusion | Prosys
+- Notion | Obsidian
+
+## Education
 
 ### Tampere Unversities
 *Master Degree of Industrial Informatics - GPA: 4.15/5*
@@ -195,7 +193,7 @@ Focus:
 - IIoT/ Signal Processing
 - Embedded system
 
-## 5. Projects
+## Projects
 
 ### AI/ML applications
 
@@ -263,20 +261,20 @@ Focus:
 - Many projects during the data structure courses
 
 ## Self-motivated Learning
-- Stream processing with Apache Flink and Flume
-    - ["Streaming Processing with Apache Flink"](https://learning.oreilly.com/library/view/stream-processing-with/9781491974285/) by Fabian Hueske and Vasiliki Kalavri
-- Cloud computing: 
-    - ["Cloud native Go"](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) by Matthew A. Titmus
-    - [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url)
-    - AI-900 Certificate - Exam in March 2023
-- [IoT Wireless & Cloud Computing Emerging Technologies](https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH) from Yonsei University
-- [Fundamental of Parallelism on Intel Architect](https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK)
-- Multiple trainings from the IT Center for Science (CSC-Finland) like [Supercomputing](https://www.futurelearn.com/certificates/dlwcy9a) from PRACE.
-- Mathematics
-    - [Linear Regression and Modeling](https://www.coursera.org/account/accomplishments/certificate/LW7CZD68CS69) from Duke University
-    - [Introduction to Probability and Data with R](https://www.coursera.org/account/accomplishments/certificate/FAVDLP64EKNP) from Duke University
+### Stream processing with Apache Flink and Flume
+- ["Streaming Processing with Apache Flink"](https://learning.oreilly.com/library/view/stream-processing-with/9781491974285/) by Fabian Hueske and Vasiliki Kalavri
+### Cloud computing: 
+- ["Cloud native Go"](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) by Matthew A. Titmus
+- [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url)
+- AI-900 Certificate - Exam in March 2023
+### [IoT Wireless & Cloud Computing Emerging Technologies](https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH) - Yonsei University
+### [Fundamental of Parallelism on Intel Architect](https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK) - Intel
+### [Supercomputing](https://www.futurelearn.com/certificates/dlwcy9a) - PRACE.
+### Mathematics
+- [Linear Regression and Modeling](https://www.coursera.org/account/accomplishments/certificate/LW7CZD68CS69) - Duke University
+- [Introduction to Probability and Data with R](https://www.coursera.org/account/accomplishments/certificate/FAVDLP64EKNP) - Duke University
 
-## 6. Referees
+## Referees
 - IoT Expert Ari Keränen from Ericsson: ari.keranen[at]ericsson.com
 - Professor Tuomas Virtanen from Tampere Universities: tuomas.virtanen[at]tuni.fi
 - Professor Jose Lastra from Tampere Univerisities: jose.martinezlastra[at]tuni.fi
