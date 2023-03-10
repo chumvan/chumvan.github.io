@@ -1,104 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Trung Van</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on Trung Van</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I hesitated for a while about making this page.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on readme.md</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on readme.md</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I hesitated for a while about making this page.
 Many people including me dislike long pages of text. However, there are occasions where they are needed.
 Who knows, there could be people who actually like to process this information like that.
 Personally, I believe a face-to-face meeting serves as the best CV of mine.
 If you are like me, contact me using the contact in the end of this post! Otherwise, have fun skimming through my career life (till now) ;).&lt;/p>
 &lt;p>&lt;em>I certainly will update this page till I find a better way to log this kind of information.&lt;/em>&lt;/p>
-&lt;h2 id="1-field-of-knowledge">1. Field of knowledge&lt;/h2>
+&lt;h2 id="field-of-knowledge">Field of knowledge&lt;/h2>
 &lt;ul>
 &lt;li>Streaming and Event-based system | Cloud Native Solutions&lt;/li>
 &lt;li>AI/ML application | Signal Processing | Computer Vision&lt;/li>
 &lt;li>Industrial IoT | 5G | Computer Networking | Information Modeling&lt;/li>
 &lt;/ul>
-&lt;h2 id="2-tech-stack">2. Tech stack&lt;/h2>
-&lt;h3 id="programming">Programming&lt;/h3>
-&lt;ul>
-&lt;li>Golang for transport and application layer programs&lt;/li>
-&lt;li>Python for AI/ML tasks and automation&lt;/li>
-&lt;li>Bash for Linux environment daily usage&lt;/li>
-&lt;li>C/C++ for prototyping with Arduino or ESP32&lt;/li>
-&lt;li>Scala for big data processing&lt;/li>
-&lt;li>Matlab for optimization research or process automation&lt;/li>
-&lt;li>JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface&lt;/li>
-&lt;/ul>
-&lt;h3 id="database">Database&lt;/h3>
-&lt;ul>
-&lt;li>SQL| MongoDB | influxDB&lt;/li>
-&lt;/ul>
-&lt;h3 id="fundamental-knowledge-in-cloud">Fundamental knowledge in Cloud&lt;/h3>
-&lt;ul>
-&lt;li>AWS: S3 | IoTCore | Lambda | DynamoDB&lt;/li>
-&lt;li>OpenStack&lt;/li>
-&lt;li>Azure: Basic training | ML Lab&lt;/li>
-&lt;li>Infrastructure as Code with Terraform and Ansible&lt;/li>
-&lt;/ul>
-&lt;h3 id="aiml-hands-on">AI/ML hands-on&lt;/h3>
-&lt;ul>
-&lt;li>sklearn, keras, pytorch, tensorflow&lt;/li>
-&lt;li>openAI API tinkering&lt;/li>
-&lt;li>huggingface&lt;/li>
-&lt;/ul>
-&lt;h3 id="devops">DevOps&lt;/h3>
-&lt;ul>
-&lt;li>Virtualization with Vagrant and Multipass&lt;/li>
-&lt;li>Tools and Platforms: GitHub | GitLab | Jfrog&lt;/li>
-&lt;li>GitActions for CI/CD&lt;/li>
-&lt;li>Applying containerization and orchestration using Docker and Kubernetes&lt;/li>
-&lt;li>Services and applications for higher productivity as Heroku&lt;/li>
-&lt;li>Monitoring system with Prometheus&lt;/li>
-&lt;/ul>
-&lt;h3 id="documentation">Documentation&lt;/h3>
-&lt;ul>
-&lt;li>A fluent level of scientific writing&lt;/li>
-&lt;li>Capable to deliver enterprise level documentation&lt;/li>
-&lt;li>Daily tools: Latex, MermaidJS, and PlantUML.&lt;/li>
-&lt;/ul>
-&lt;h3 id="web-tech">Web tech&lt;/h3>
-&lt;ul>
-&lt;li>Nodejs | Express | React for a fullstack web prototype&lt;/li>
-&lt;li>MaterialUI | Semantic UI React for UI&lt;/li>
-&lt;li>Swagger | OpenAPI for API planning and documentation&lt;/li>
-&lt;/ul>
-&lt;h3 id="testing-frameworks">Testing frameworks&lt;/h3>
-&lt;ul>
-&lt;li>Jest | Cypress | Supertest | Testing library&lt;/li>
-&lt;/ul>
-&lt;h3 id="connectivity">Connectivity:&lt;/h3>
-&lt;ul>
-&lt;li>API design architecture in REST | GraphQL&lt;/li>
-&lt;li>Data-transport plane protocols RTP/RTCP&lt;/li>
-&lt;li>WebRTC for web real-time media and data transmission&lt;/li>
-&lt;li>Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE&lt;/li>
-&lt;li>Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT&lt;/li>
-&lt;li>Industrial communication protocols Profibus | EtherCAT | CAN | CANopen&lt;/li>
-&lt;/ul>
-&lt;h3 id="gui">GUI&lt;/h3>
-&lt;ul>
-&lt;li>Qt | Thingspeak | Thingsboard&lt;/li>
-&lt;/ul>
-&lt;h3 id="visualization">Visualization&lt;/h3>
-&lt;ul>
-&lt;li>D3js | Plotly | Grafana&lt;/li>
-&lt;/ul>
-&lt;h3 id="electrical-skills">Electrical skills&lt;/h3>
-&lt;ul>
-&lt;li>Design | safety | installation&lt;/li>
-&lt;/ul>
-&lt;h3 id="automation-and-embedded">Automation and Embedded:&lt;/h3>
-&lt;ul>
-&lt;li>PLC | SCADA | HMI | MES | Applied Robotics&lt;/li>
-&lt;li>OPC UA | FIWARE | JADE | ROS&lt;/li>
-&lt;li>Process planning | Distributed Intelligence&lt;/li>
-&lt;li>Able to prototype using Microcontrollers like Arduino or ESP32 and Microprocessor like Raspberry Pi&lt;/li>
-&lt;/ul>
-&lt;h3 id="more-tools">More tools&lt;/h3>
-&lt;ul>
-&lt;li>Make | SSH | Vim | Qt Creator&lt;/li>
-&lt;li>Postman | Visual Studio&lt;/li>
-&lt;li>Matlab | LabView | Codesys | Fusion | Prosys&lt;/li>
-&lt;li>Notion | Obsidian&lt;/li>
-&lt;/ul>
-&lt;h2 id="3-experience">3. Experience&lt;/h2>
+&lt;h2 id="experience">Experience&lt;/h2>
 &lt;p>This is a short list of the position I have been (gratefully) working in for the last few years.
 For longer descriptions, click on any link you can find.&lt;/p>
 &lt;h3 id="ericsson-finland">Ericsson Finland&lt;/h3>
@@ -159,7 +71,95 @@ Key learning: Signal processing, web, visualization, circuit design&lt;/li>
 &lt;li>Maintenance-trouble shooting Can &amp;amp; Bottle Automation Lines&lt;/li>
 &lt;li>Responsible for Analyze-review process automation including PLC | HMI programs | test software-hardware.&lt;/li>
 &lt;/ul>
-&lt;h2 id="4-education">4. Education&lt;/h2>
+&lt;h2 id="tech-stack">Tech stack&lt;/h2>
+&lt;h3 id="programming">Programming&lt;/h3>
+&lt;ul>
+&lt;li>Golang for transport and application layer programs&lt;/li>
+&lt;li>Python for AI/ML tasks and automation&lt;/li>
+&lt;li>Bash for Linux environment daily usage&lt;/li>
+&lt;li>C/C++ for prototyping with Arduino or ESP32&lt;/li>
+&lt;li>Scala for big data processing&lt;/li>
+&lt;li>Matlab for optimization research or process automation&lt;/li>
+&lt;li>JavaScript/Typescript: Capable for small web UI projects and MVP or prototype with web-interface&lt;/li>
+&lt;/ul>
+&lt;h3 id="database">Database&lt;/h3>
+&lt;ul>
+&lt;li>SQL| MongoDB | influxDB&lt;/li>
+&lt;/ul>
+&lt;h3 id="fundamental-knowledge-in-cloud">Fundamental knowledge in Cloud&lt;/h3>
+&lt;ul>
+&lt;li>AWS: S3 | IoTCore | Lambda | DynamoDB&lt;/li>
+&lt;li>OpenStack&lt;/li>
+&lt;li>Azure: Basic training | ML Lab&lt;/li>
+&lt;li>Infrastructure as Code with Terraform and Ansible&lt;/li>
+&lt;/ul>
+&lt;h3 id="aiml-hands-on">AI/ML hands-on&lt;/h3>
+&lt;ul>
+&lt;li>sklearn, keras, pytorch, tensorflow&lt;/li>
+&lt;li>openAI API tinkering&lt;/li>
+&lt;li>huggingface&lt;/li>
+&lt;/ul>
+&lt;h3 id="devops">DevOps&lt;/h3>
+&lt;ul>
+&lt;li>Virtualization with Vagrant and Multipass&lt;/li>
+&lt;li>Tools and Platforms: GitHub | GitLab | Jfrog&lt;/li>
+&lt;li>GitActions for CI/CD&lt;/li>
+&lt;li>Applying containerization and orchestration using Docker and Kubernetes&lt;/li>
+&lt;li>Services and applications for higher productivity as Heroku&lt;/li>
+&lt;li>Monitoring system with Prometheus&lt;/li>
+&lt;/ul>
+&lt;h3 id="documentation">Documentation&lt;/h3>
+&lt;ul>
+&lt;li>A fluent level of scientific writing&lt;/li>
+&lt;li>Capable to deliver enterprise level documentation&lt;/li>
+&lt;li>Daily tools: Latex, MermaidJS, and PlantUML.&lt;/li>
+&lt;/ul>
+&lt;h3 id="web-tech">Web tech&lt;/h3>
+&lt;ul>
+&lt;li>Nodejs | Express | React for a fullstack web prototype&lt;/li>
+&lt;li>MaterialUI | Semantic UI React for UI&lt;/li>
+&lt;li>Swagger | OpenAPI for API planning and documentation&lt;/li>
+&lt;/ul>
+&lt;h3 id="testing-frameworks">Testing frameworks&lt;/h3>
+&lt;ul>
+&lt;li>Jest | Cypress | Supertest | Testing library&lt;/li>
+&lt;/ul>
+&lt;h3 id="connectivity">Connectivity&lt;/h3>
+&lt;ul>
+&lt;li>API design architecture in REST | GraphQL&lt;/li>
+&lt;li>Data-transport plane protocols RTP/RTCP&lt;/li>
+&lt;li>WebRTC for web real-time media and data transmission&lt;/li>
+&lt;li>Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE&lt;/li>
+&lt;li>Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT&lt;/li>
+&lt;li>Industrial communication protocols Profibus | EtherCAT | CAN | CANopen&lt;/li>
+&lt;/ul>
+&lt;h3 id="gui">GUI&lt;/h3>
+&lt;ul>
+&lt;li>Qt | Thingspeak | Thingsboard&lt;/li>
+&lt;/ul>
+&lt;h3 id="visualization">Visualization&lt;/h3>
+&lt;ul>
+&lt;li>D3js | Plotly | Grafana&lt;/li>
+&lt;/ul>
+&lt;h3 id="electrical-skills">Electrical skills&lt;/h3>
+&lt;ul>
+&lt;li>Design | safety | installation&lt;/li>
+&lt;/ul>
+&lt;h3 id="automation-and-embedded">Automation and Embedded&lt;/h3>
+&lt;ul>
+&lt;li>PLC | SCADA | HMI | MES | Applied Robotics&lt;/li>
+&lt;li>OPC UA | FIWARE | JADE | ROS&lt;/li>
+&lt;li>Process planning | Distributed Intelligence&lt;/li>
+&lt;li>Able to prototype using Microcontrollers like Arduino or ESP32 and Microprocessor like Raspberry Pi&lt;/li>
+&lt;/ul>
+&lt;h3 id="more-tools">More tools&lt;/h3>
+&lt;ul>
+&lt;li>Make | SSH | Vim | Qt Creator&lt;/li>
+&lt;li>Postman | Visual Studio&lt;/li>
+&lt;li>Matlab | LabView | Codesys | Fusion | Prosys&lt;/li>
+&lt;li>Notion | Obsidian&lt;/li>
+&lt;/ul>
+&lt;h2 id="education">Education&lt;/h2>
 &lt;h3 id="tampere-unversities">Tampere Unversities&lt;/h3>
 &lt;p>&lt;em>Master Degree of Industrial Informatics - GPA: 4.15/5&lt;/em>&lt;/p>
 &lt;p>Focus study:&lt;/p>
@@ -199,7 +199,7 @@ Focus study:&lt;/p>
 &lt;li>IIoT/ Signal Processing&lt;/li>
 &lt;li>Embedded system&lt;/li>
 &lt;/ul>
-&lt;h2 id="5-projects">5. Projects&lt;/h2>
+&lt;h2 id="projects">Projects&lt;/h2>
 &lt;h3 id="aiml-applications">AI/ML applications&lt;/h3>
 &lt;h4 id="kaggle">Kaggle&lt;/h4>
 &lt;p>&lt;a class="link" href="https://www.kaggle.com/c/bird-audio-detection" target="_blank" rel="noopener"
@@ -298,14 +298,12 @@ Focus study:&lt;/p>
 &lt;li>Many projects during the data structure courses&lt;/li>
 &lt;/ul>
 &lt;h2 id="self-motivated-learning">Self-motivated Learning&lt;/h2>
-&lt;ul>
-&lt;li>Stream processing with Apache Flink and Flume
+&lt;h3 id="stream-processing-with-apache-flink-and-flume">Stream processing with Apache Flink and Flume&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://learning.oreilly.com/library/view/stream-processing-with/9781491974285/" target="_blank" rel="noopener"
 >&amp;ldquo;Streaming Processing with Apache Flink&amp;rdquo;&lt;/a> by Fabian Hueske and Vasiliki Kalavri&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>Cloud computing:
+&lt;h3 id="cloud-computing">Cloud computing:&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/" target="_blank" rel="noopener"
 >&amp;ldquo;Cloud native Go&amp;rdquo;&lt;/a> by Matthew A. Titmus&lt;/li>
@@ -313,23 +311,20 @@ Focus study:&lt;/p>
 >AZ-900 Certificate&lt;/a>&lt;/li>
 &lt;li>AI-900 Certificate - Exam in March 2023&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH" target="_blank" rel="noopener"
->IoT Wireless &amp;amp; Cloud Computing Emerging Technologies&lt;/a> from Yonsei University&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK" target="_blank" rel="noopener"
->Fundamental of Parallelism on Intel Architect&lt;/a>&lt;/li>
-&lt;li>Multiple trainings from the IT Center for Science (CSC-Finland) like &lt;a class="link" href="https://www.futurelearn.com/certificates/dlwcy9a" target="_blank" rel="noopener"
->Supercomputing&lt;/a> from PRACE.&lt;/li>
-&lt;li>Mathematics
+&lt;h3 id="iot-wireless--cloud-computing-emerging-technologieshttpswwwcourseraorgaccountaccomplishmentscertificatez38kznudl9kh---yonsei-university">&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH" target="_blank" rel="noopener"
+>IoT Wireless &amp;amp; Cloud Computing Emerging Technologies&lt;/a> - Yonsei University&lt;/h3>
+&lt;h3 id="fundamental-of-parallelism-on-intel-architecthttpswwwcourseraorgaccountaccomplishmentscertificate76bqenu5zkdk---intel">&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK" target="_blank" rel="noopener"
+>Fundamental of Parallelism on Intel Architect&lt;/a> - Intel&lt;/h3>
+&lt;h3 id="supercomputinghttpswwwfuturelearncomcertificatesdlwcy9a---prace">&lt;a class="link" href="https://www.futurelearn.com/certificates/dlwcy9a" target="_blank" rel="noopener"
+>Supercomputing&lt;/a> - PRACE.&lt;/h3>
+&lt;h3 id="mathematics">Mathematics&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/LW7CZD68CS69" target="_blank" rel="noopener"
->Linear Regression and Modeling&lt;/a> from Duke University&lt;/li>
+>Linear Regression and Modeling&lt;/a> - Duke University&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.coursera.org/account/accomplishments/certificate/FAVDLP64EKNP" target="_blank" rel="noopener"
->Introduction to Probability and Data with R&lt;/a> from Duke University&lt;/li>
+>Introduction to Probability and Data with R&lt;/a> - Duke University&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="6-referees">6. Referees&lt;/h2>
+&lt;h2 id="referees">Referees&lt;/h2>
 &lt;ul>
 &lt;li>IoT Expert Ari Keränen from Ericsson: ari.keranen[at]ericsson.com&lt;/li>
 &lt;li>Professor Tuomas Virtanen from Tampere Universities: tuomas.virtanen[at]tuni.fi&lt;/li>
