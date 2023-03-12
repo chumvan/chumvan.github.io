@@ -28,6 +28,10 @@ If you are like me, contact me using the contact in the end of this post! Otherw
 - AI/ML application | Signal Processing | Computer Vision
 - Industrial IoT | 5G | Computer Networking | Information Modeling
 
+## Certificate
+- [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url) - The link didn't work? Try this [pdf](AZ900-certificate.pdf)
+- [AI-900 Certificate](https://www.credly.com/badges/eb2f0c4e-7061-4ce5-a090-dc8f1767bbf1/public_url) - The link didn't work? Try this [pdf](AI900-certificate.pdf)
+
 ## Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 
 For longer descriptions, click on any link you can find.
@@ -265,8 +269,7 @@ Focus:
 - ["Streaming Processing with Apache Flink"](https://learning.oreilly.com/library/view/stream-processing-with/9781491974285/) by Fabian Hueske and Vasiliki Kalavri
 ### Cloud computing: 
 - ["Cloud native Go"](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) by Matthew A. Titmus
-- [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url)
-- AI-900 Certificate - Exam in March 2023
+
 ### [IoT Wireless & Cloud Computing Emerging Technologies](https://www.coursera.org/account/accomplishments/certificate/Z38KZNUDL9KH) - Yonsei University
 ### [Fundamental of Parallelism on Intel Architect](https://www.coursera.org/account/accomplishments/certificate/76BQENU5ZKDK) - Intel
 ### [Supercomputing](https://www.futurelearn.com/certificates/dlwcy9a) - PRACE.
