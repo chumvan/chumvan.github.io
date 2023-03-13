@@ -5,7 +5,7 @@ title: "Trung Van"
 languages:
   en:
     languageName: English
-    title: readme.md
+    title: read-trung.md
     description: a blog about technology, programming, and life
     weight: 1
 DefaultContentLanguage: en
