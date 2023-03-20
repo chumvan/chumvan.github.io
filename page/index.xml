@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on read-trung.md</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on read-trung.md</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I hesitated for a while about making this page.
-Many people including me dislike long pages of text. However, there are occasions where they are needed.
-Who knows, there could be people who actually like to process this information like that.
-Personally, I believe a face-to-face meeting serves as the best CV of mine.
-If you are like me, contact me using the contact in the end of this post! Otherwise, have fun skimming through my career life (till now) ;).&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on read-trung.md</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on read-trung.md</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one&amp;rsquo;s career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don&amp;rsquo;t, I would much rather meet them face-to-face and let them get to know me personally. That is why I invite you to contact me using the details at the end of this page if you share my preference. Otherwise, feel free to browse through the highlights of my professional journey so far.&lt;/p>
 &lt;p>&lt;em>I certainly will update this page till I find a better way to log this kind of information.&lt;/em>&lt;/p>
 &lt;h2 id="field-of-knowledge">Field of knowledge&lt;/h2>
 &lt;ul>
@@ -123,9 +119,9 @@ Key learning: Signal processing, web, visualization, circuit design&lt;/li>
 &lt;/ul>
 &lt;h3 id="web-tech">Web tech&lt;/h3>
 &lt;ul>
-&lt;li>Nodejs | Express | React for a fullstack web prototype&lt;/li>
+&lt;li>Nodejs | Express | React | Django for a fullstack web prototype&lt;/li>
 &lt;li>MaterialUI | Semantic UI React for UI&lt;/li>
-&lt;li>Swagger | OpenAPI for API planning and documentation&lt;/li>
+&lt;li>Swagger | OpenAPI and SyncAPI for API planning, documentation and code generation&lt;/li>
 &lt;/ul>
 &lt;h3 id="testing-frameworks">Testing frameworks&lt;/h3>
 &lt;ul>
