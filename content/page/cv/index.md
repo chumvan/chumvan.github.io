@@ -15,11 +15,7 @@ menu:
             icon: resume 
 ---
 
-I hesitated for a while about making this page. 
-Many people including me dislike long pages of text. However, there are occasions where they are needed. 
-Who knows, there could be people who actually like to process this information like that. 
-Personally, I believe a face-to-face meeting serves as the best CV of mine. 
-If you are like me, contact me using the contact in the end of this post! Otherwise, have fun skimming through my career life (till now) ;).
+I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one's career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don't, I would much rather meet them face-to-face and let them get to know me personally. That is why I invite you to contact me using the details at the end of this page if you share my preference. Otherwise, feel free to browse through the highlights of my professional journey so far.
 
 *I certainly will update this page till I find a better way to log this kind of information.*
 
@@ -122,9 +118,9 @@ As an Automation engineer, I worked (in a completely sober state) with beer and 
 - Daily tools: Latex, MermaidJS, and PlantUML.
 
 ### Web tech
-- Nodejs | Express | React for a fullstack web prototype
+- Nodejs | Express | React | Django for a fullstack web prototype
 - MaterialUI | Semantic UI React for UI
-- Swagger | OpenAPI for API planning and documentation
+- Swagger | OpenAPI and SyncAPI for API planning, documentation and code generation
 
 ### Testing frameworks
 - Jest | Cypress | Supertest | Testing library 
