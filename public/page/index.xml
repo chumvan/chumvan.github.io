@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on read-trung.md</title>
+    <link>https://chumvan.github.io/page/</link>
+    <description>Recent content in Pages on read-trung.md</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>https://chumvan.github.io/page/cv/</link>
+      <pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate>
+      
+      <guid>https://chumvan.github.io/page/cv/</guid>
+      <description>I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one&amp;rsquo;s career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don&amp;rsquo;t, I would much rather meet them face-to-face and let them get to know me personally.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://chumvan.github.io/page/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://chumvan.github.io/page/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://chumvan.github.io/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chumvan.github.io/page/contact/</guid>
+      <description>My full name is Van Huu Thanh Trung. You can call me Trung, or Chum if you think I am a cool guy. For work, I speak English and Vietnamese. The best way to communicate with me is face-to-face in a cozy café(I make lists of workable café wherever I go). Otherwise, please reach out for me via:
+email: vanhuuthanhtrung[at]email.com phone (FI): (+358) 413 134 992 Life is beautiful. Take care!</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://chumvan.github.io/page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chumvan.github.io/page/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

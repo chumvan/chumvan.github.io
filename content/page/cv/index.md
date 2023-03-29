@@ -27,6 +27,7 @@ I was initially reluctant to create this page, as I know that many people, mysel
 ## Certificate
 - [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url) - The link didn't work? Try this [pdf](AZ900-certificate.pdf)
 - [AI-900 Certificate](https://www.credly.com/badges/eb2f0c4e-7061-4ce5-a090-dc8f1767bbf1/public_url) - The link didn't work? Try this [pdf](AI900-certificate.pdf)
+- [DP-900 Certificate](https://www.credly.com/badges/24c0a187-628e-4702-ae49-3e35eeffd196/public_url) - The link didn't work? Try this [pdf](DP900-certificate.pdf)
 
 ## Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 
