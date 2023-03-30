@@ -80,6 +80,74 @@ As an Automation engineer, I worked (in a completely sober state) with beer and 
 - Maintenance-trouble shooting Can & Bottle Automation Lines
 - Responsible for Analyze-review process automation including PLC | HMI programs | test software-hardware.
 
+## Projects
+
+### AI/ML applications
+
+#### Kaggle
+[*Competition Audio Detection*](https://www.kaggle.com/c/bird-audio-detection)
+- ~5000 records with/ without bird sounds
+- investigate and reshape data: pandas | plotly
+- apply Mel-bands, FFT points, overlap, and TensorFlow to train a model with a score of 0.708
+
+#### Python for AI/ML
+- [Smart bolt for strain monitoring](https://github.com/chumvan/REMOS_RPI)
+- [Unicycle robot control](https://github.com/chumvan/unicycle-mobile-robot-control)
+- [Acoustic predictive maintenance](https://github.com/chumvan/audio_anomaly_detection) with triplet network - [DCASE challenge 2021](https://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds)
+- Audio signal alignment
+- Audio anomaly detection using embeddings
+- Signal sources separation
+- Multiple projects work applying: 
+    - [Yolo/SSD](https://github.com/chumvan/ComputerVisionTUT2020)
+    - image/audio classification
+    - Linear regression
+- Predictive propeller maintenance:
+    - analyze propeller model from Fusion
+    - predict downtime using Linear Regression
+
+#### MATLAB
+- [EEG](https://github.com/chumvan/EEG_spectral_analysis) and [ECG](https://github.com/chumvan/BSA) signal processing
+- [Spectral entropy analysis](https://github.com/chumvan/spectral_entropy_DOA)
+- Digital scale for continuous measurement 
+- Real-time strain monitoring from displacement
+- Multiple signal and image processing applications
+
+### Software Development
+
+#### Golang
+*Content delivery and transport layer application*
+- Golang wrapper for Raspberry Pi SenseHat - [gopysense](https://github.com/chumvan/gopysense)
+- [T140](https://github.com/chumvan/t140) packet format based on [RFC4103](https://datatracker.ietf.org/doc/html/rfc4103)
+- Microservices implementation: 
+    - [SIP-REST translator](https://github.com/chumvan/sipRestServer)
+    - [Associate a Conference to a Topic](https://github.com/chumvan/confdb)
+
+#### Fullstack
+*Blog list full-stack app*
+- [Web dev practice](https://github.com/chumvan/fullstackopen-2021)
+- [Frontend](https://github.com/chumvan/bloglist-frontend): React & Material UI
+- [Backend](https://github.com/chumvan/bloglist-backend): MongoDB, NodeJS and Express
+- Testing: Cypress and Jest
+- Deploy: Docker & Heroku
+
+#### Backend
+[*Library app*](https://github.com/chumvan/fullstackopen-2021/tree/main/part8)
+- Explore an alternative for communication between browser and server
+- GraphQL(Apollo Client and Server) and Express
+
+#### AWS using Python
+*Auto backup folder*
+- An automated process to save CSV files triggered by any change in a selected folder
+- Services: AWS S3 and AWS Lambda
+
+#### MQTT 
+*Implemented a broker in a Raspberry Pi*
+
+#### C++
+- An interactive card game applied OOP concepts for backend and Qt GUI for frontend
+- Many projects during the data structure courses
+
+
 ## Tech stack
 
 ### Programming
@@ -193,73 +261,6 @@ Focus:
 - Industrial Automation & Electrical
 - IIoT/ Signal Processing
 - Embedded system
-
-## Projects
-
-### AI/ML applications
-
-#### Kaggle
-[*Competition Audio Detection*](https://www.kaggle.com/c/bird-audio-detection)
-- ~5000 records with/ without bird sounds
-- investigate and reshape data: pandas | plotly
-- apply Mel-bands, FFT points, overlap, and TensorFlow to train a model with a score of 0.708
-
-#### Python for AI/ML
-- [Smart bolt for strain monitoring](https://github.com/chumvan/REMOS_RPI)
-- [Unicycle robot control](https://github.com/chumvan/unicycle-mobile-robot-control)
-- [Acoustic predictive maintenance](https://github.com/chumvan/audio_anomaly_detection) with triplet network - [DCASE challenge 2021](https://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds)
-- Audio signal alignment
-- Audio anomaly detection using embeddings
-- Signal sources separation
-- Multiple projects work applying: 
-    - [Yolo/SSD](https://github.com/chumvan/ComputerVisionTUT2020)
-    - image/audio classification
-    - Linear regression
-- Predictive propeller maintenance:
-    - analyze propeller model from Fusion
-    - predict downtime using Linear Regression
-
-#### MATLAB
-- [EEG](https://github.com/chumvan/EEG_spectral_analysis) and [ECG](https://github.com/chumvan/BSA) signal processing
-- [Spectral entropy analysis](https://github.com/chumvan/spectral_entropy_DOA)
-- Digital scale for continuous measurement 
-- Real-time strain monitoring from displacement
-- Multiple signal and image processing applications
-
-### Software Development
-
-#### Golang
-*Content delivery and transport layer application*
-- Golang wrapper for Raspberry Pi SenseHat - [gopysense](https://github.com/chumvan/gopysense)
-- [T140](https://github.com/chumvan/t140) packet format based on [RFC4103](https://datatracker.ietf.org/doc/html/rfc4103)
-- Microservices implementation: 
-    - [SIP-REST translator](https://github.com/chumvan/sipRestServer)
-    - [Associate a Conference to a Topic](https://github.com/chumvan/confdb)
-
-#### Fullstack
-*Blog list full-stack app*
-- [Web dev practice](https://github.com/chumvan/fullstackopen-2021)
-- [Frontend](https://github.com/chumvan/bloglist-frontend): React & Material UI
-- [Backend](https://github.com/chumvan/bloglist-backend): MongoDB, NodeJS and Express
-- Testing: Cypress and Jest
-- Deploy: Docker & Heroku
-
-#### Backend
-[*Library app*](https://github.com/chumvan/fullstackopen-2021/tree/main/part8)
-- Explore an alternative for communication between browser and server
-- GraphQL(Apollo Client and Server) and Express
-
-#### AWS using Python
-*Auto backup folder*
-- An automated process to save CSV files triggered by any change in a selected folder
-- Services: AWS S3 and AWS Lambda
-
-#### MQTT 
-*Implemented a broker in a Raspberry Pi*
-
-#### C++
-- An interactive card game applied OOP concepts for backend and Qt GUI for frontend
-- Many projects during the data structure courses
 
 ## Self-motivated Learning
 ### Stream processing with Apache Flink and Flume
