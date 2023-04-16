@@ -177,21 +177,22 @@ As an Automation engineer, I worked (in a completely sober state) with beer and 
 
 ### Fundamental knowledge in Cloud
 - AWS: S3 | IoTCore | Lambda | DynamoDB
+- Certified in Azure
+- GCP
 - OpenStack
-- Azure: Basic training | ML Lab
 - Infrastructure as Code with Terraform and Ansible
 
 ### AI/ML hands-on
-- sklearn, keras, pytorch, tensorflow
-- openAI API tinkering
+- sklearn, Keras, PyTorch, TensorFlow
+- OpenAI API tinkering
 - huggingface
 
 ### DevOps
+- Terraform | Ansible
+- Docker | K8s
 - Virtualization with Vagrant and Multipass
 - Tools and Platforms: GitHub | GitLab | Jfrog
 - GitActions for CI/CD
-- Applying containerization and orchestration using Docker and Kubernetes
-- Services and applications for higher productivity as Heroku 
 - Monitoring system with Prometheus
 
 ### Documentation
@@ -209,10 +210,12 @@ As an Automation engineer, I worked (in a completely sober state) with beer and 
 
 ### Connectivity
 - API design architecture in REST | GraphQL
-- Data-transport plane protocols RTP/RTCP 
-- WebRTC for web real-time media and data transmission
-- Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE
-- Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT
+- IP stack
+    - Data-transport plane protocols RTP/RTCP 
+    - WebRTC for web real-time media and data transmission
+    - Knowledge in HTTP | TCP | UDP | MQTT
+    - Security TLS | DTLS | OSCORE
+- Non-IP: RFID | BLE | Zigbee | XBee | LoRa | NB-IoT
 - Industrial communication protocols Profibus | EtherCAT | CAN | CANopen
 
 ### GUI

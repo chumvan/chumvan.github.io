@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAI/ML hands-on\nsklearn, Keras, PyTorch, TensorFlow\nOpenAI API tinkering\nhuggingface\\E$"}
