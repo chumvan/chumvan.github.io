@@ -25,6 +25,10 @@ I was initially reluctant to create this page, as I know that many people, mysel
 - Industrial IoT | 5G | Computer Networking | Information Modeling
 
 ## Certificate
+- [GCP badges](https://www.cloudskillsboost.google/public_profiles/c63fe0a1-eddd-4e03-8d56-20600082d2ab)
+    - Fundamental tasks: Cloud Storage, Identity and Access Management, Cloud Functions, and Pub/Sub
+    - Terraform and K8s with GCP
+    - DevOps for web on GCP
 - [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url) - The link didn't work? Try this [pdf](AZ900-certificate.pdf)
 - [AI-900 Certificate](https://www.credly.com/badges/eb2f0c4e-7061-4ce5-a090-dc8f1767bbf1/public_url) - The link didn't work? Try this [pdf](AI900-certificate.pdf)
 - [DP-900 Certificate](https://www.credly.com/badges/24c0a187-628e-4702-ae49-3e35eeffd196/public_url) - The link didn't work? Try this [pdf](DP900-certificate.pdf)
@@ -84,6 +88,15 @@ As an Automation engineer, I worked (in a completely sober state) with beer and 
 
 ### AI/ML applications
 
+### Generative AI
+- Mindfulness custom message using
+    - GPT API for message tailoring
+    - NASA's API for natural disaster real-time report
+    - Send messages via a 3rd parties API
+- Children book manufacturing *(in process - current result in this [link](https://www.canva.com/design/DAFgKhFtoIY/NzN8uBZKkHA3dBJKpt1zGQ/edit?utm_content=DAFgKhFtoIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))*
+    - ChatGPT and GPT API for story line and characters construction
+    - Midjourney and StableDiffusion for image generation
+    - Pipelining with bash + python
 #### Kaggle
 [*Competition Audio Detection*](https://www.kaggle.com/c/bird-audio-detection)
 - ~5000 records with/ without bird sounds
