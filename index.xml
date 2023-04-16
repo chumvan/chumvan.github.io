@@ -413,23 +413,24 @@ Key learning: Signal processing, web, visualization, circuit design&lt;/li>
 &lt;h3 id="fundamental-knowledge-in-cloud">Fundamental knowledge in Cloud&lt;/h3>
 &lt;ul>
 &lt;li>AWS: S3 | IoTCore | Lambda | DynamoDB&lt;/li>
+&lt;li>Certified in Azure&lt;/li>
+&lt;li>GCP&lt;/li>
 &lt;li>OpenStack&lt;/li>
-&lt;li>Azure: Basic training | ML Lab&lt;/li>
 &lt;li>Infrastructure as Code with Terraform and Ansible&lt;/li>
 &lt;/ul>
 &lt;h3 id="aiml-hands-on">AI/ML hands-on&lt;/h3>
 &lt;ul>
-&lt;li>sklearn, keras, pytorch, tensorflow&lt;/li>
-&lt;li>openAI API tinkering&lt;/li>
+&lt;li>sklearn, Keras, PyTorch, TensorFlow&lt;/li>
+&lt;li>OpenAI API tinkering&lt;/li>
 &lt;li>huggingface&lt;/li>
 &lt;/ul>
 &lt;h3 id="devops">DevOps&lt;/h3>
 &lt;ul>
+&lt;li>Terraform | Ansible&lt;/li>
+&lt;li>Docker | K8s&lt;/li>
 &lt;li>Virtualization with Vagrant and Multipass&lt;/li>
 &lt;li>Tools and Platforms: GitHub | GitLab | Jfrog&lt;/li>
 &lt;li>GitActions for CI/CD&lt;/li>
-&lt;li>Applying containerization and orchestration using Docker and Kubernetes&lt;/li>
-&lt;li>Services and applications for higher productivity as Heroku&lt;/li>
 &lt;li>Monitoring system with Prometheus&lt;/li>
 &lt;/ul>
 &lt;h3 id="documentation">Documentation&lt;/h3>
@@ -451,10 +452,15 @@ Key learning: Signal processing, web, visualization, circuit design&lt;/li>
 &lt;h3 id="connectivity">Connectivity&lt;/h3>
 &lt;ul>
 &lt;li>API design architecture in REST | GraphQL&lt;/li>
+&lt;li>IP stack
+&lt;ul>
 &lt;li>Data-transport plane protocols RTP/RTCP&lt;/li>
 &lt;li>WebRTC for web real-time media and data transmission&lt;/li>
-&lt;li>Knowledge in HTTP | TCP | UDP | MQTT | DTLS | OSCORE&lt;/li>
-&lt;li>Experience in from IoT perspective in these protocols RFID | BLE | Zigbee | XBee | LoRa | NB-IoT&lt;/li>
+&lt;li>Knowledge in HTTP | TCP | UDP | MQTT&lt;/li>
+&lt;li>Security TLS | DTLS | OSCORE&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Non-IP: RFID | BLE | Zigbee | XBee | LoRa | NB-IoT&lt;/li>
 &lt;li>Industrial communication protocols Profibus | EtherCAT | CAN | CANopen&lt;/li>
 &lt;/ul>
 &lt;h3 id="gui">GUI&lt;/h3>
