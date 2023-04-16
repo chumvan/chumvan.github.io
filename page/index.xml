@@ -8,6 +8,14 @@
 &lt;/ul>
 &lt;h2 id="certificate">Certificate&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a class="link" href="https://www.cloudskillsboost.google/public_profiles/c63fe0a1-eddd-4e03-8d56-20600082d2ab" target="_blank" rel="noopener"
+>GCP badges&lt;/a>
+&lt;ul>
+&lt;li>Fundamental tasks: Cloud Storage, Identity and Access Management, Cloud Functions, and Pub/Sub&lt;/li>
+&lt;li>Terraform and K8s with GCP&lt;/li>
+&lt;li>DevOps for web on GCP&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url" target="_blank" rel="noopener"
 >AZ-900 Certificate&lt;/a> - The link didn&amp;rsquo;t work? Try this &lt;a class="link" href="AZ900-certificate.pdf" >pdf&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.credly.com/badges/eb2f0c4e-7061-4ce5-a090-dc8f1767bbf1/public_url" target="_blank" rel="noopener"
@@ -75,6 +83,122 @@ Key learning: Signal processing, web, visualization, circuit design&lt;/li>
 &lt;ul>
 &lt;li>Maintenance-trouble shooting Can &amp;amp; Bottle Automation Lines&lt;/li>
 &lt;li>Responsible for Analyze-review process automation including PLC | HMI programs | test software-hardware.&lt;/li>
+&lt;/ul>
+&lt;h2 id="projects">Projects&lt;/h2>
+&lt;h3 id="aiml-applications">AI/ML applications&lt;/h3>
+&lt;h3 id="generative-ai">Generative AI&lt;/h3>
+&lt;ul>
+&lt;li>Mindfulness custom message using
+&lt;ul>
+&lt;li>GPT API for message tailoring&lt;/li>
+&lt;li>NASA&amp;rsquo;s API for natural disaster real-time report&lt;/li>
+&lt;li>Send messages via a 3rd parties API&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Children book manufacturing &lt;em>(in process - current result in this &lt;a class="link" href="https://www.canva.com/design/DAFgKhFtoIY/NzN8uBZKkHA3dBJKpt1zGQ/edit?utm_content=DAFgKhFtoIY&amp;amp;utm_campaign=designshare&amp;amp;utm_medium=link2&amp;amp;utm_source=sharebutton" target="_blank" rel="noopener"
+>link&lt;/a>)&lt;/em>
+&lt;ul>
+&lt;li>ChatGPT and GPT API for story line and characters construction&lt;/li>
+&lt;li>Midjourney and StableDiffusion for image generation&lt;/li>
+&lt;li>Pipelining with bash + python&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="kaggle">Kaggle&lt;/h4>
+&lt;p>&lt;a class="link" href="https://www.kaggle.com/c/bird-audio-detection" target="_blank" rel="noopener"
+>&lt;em>Competition Audio Detection&lt;/em>&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>~5000 records with/ without bird sounds&lt;/li>
+&lt;li>investigate and reshape data: pandas | plotly&lt;/li>
+&lt;li>apply Mel-bands, FFT points, overlap, and TensorFlow to train a model with a score of 0.708&lt;/li>
+&lt;/ul>
+&lt;h4 id="python-for-aiml">Python for AI/ML&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/REMOS_RPI" target="_blank" rel="noopener"
+>Smart bolt for strain monitoring&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/unicycle-mobile-robot-control" target="_blank" rel="noopener"
+>Unicycle robot control&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/audio_anomaly_detection" target="_blank" rel="noopener"
+>Acoustic predictive maintenance&lt;/a> with triplet network - &lt;a class="link" href="https://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds" target="_blank" rel="noopener"
+>DCASE challenge 2021&lt;/a>&lt;/li>
+&lt;li>Audio signal alignment&lt;/li>
+&lt;li>Audio anomaly detection using embeddings&lt;/li>
+&lt;li>Signal sources separation&lt;/li>
+&lt;li>Multiple projects work applying:
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/ComputerVisionTUT2020" target="_blank" rel="noopener"
+>Yolo/SSD&lt;/a>&lt;/li>
+&lt;li>image/audio classification&lt;/li>
+&lt;li>Linear regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Predictive propeller maintenance:
+&lt;ul>
+&lt;li>analyze propeller model from Fusion&lt;/li>
+&lt;li>predict downtime using Linear Regression&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="matlab">MATLAB&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/EEG_spectral_analysis" target="_blank" rel="noopener"
+>EEG&lt;/a> and &lt;a class="link" href="https://github.com/chumvan/BSA" target="_blank" rel="noopener"
+>ECG&lt;/a> signal processing&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/spectral_entropy_DOA" target="_blank" rel="noopener"
+>Spectral entropy analysis&lt;/a>&lt;/li>
+&lt;li>Digital scale for continuous measurement&lt;/li>
+&lt;li>Real-time strain monitoring from displacement&lt;/li>
+&lt;li>Multiple signal and image processing applications&lt;/li>
+&lt;/ul>
+&lt;h3 id="software-development">Software Development&lt;/h3>
+&lt;h4 id="golang">Golang&lt;/h4>
+&lt;p>&lt;em>Content delivery and transport layer application&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Golang wrapper for Raspberry Pi SenseHat - &lt;a class="link" href="https://github.com/chumvan/gopysense" target="_blank" rel="noopener"
+>gopysense&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/t140" target="_blank" rel="noopener"
+>T140&lt;/a> packet format based on &lt;a class="link" href="https://datatracker.ietf.org/doc/html/rfc4103" target="_blank" rel="noopener"
+>RFC4103&lt;/a>&lt;/li>
+&lt;li>Microservices implementation:
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/sipRestServer" target="_blank" rel="noopener"
+>SIP-REST translator&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/confdb" target="_blank" rel="noopener"
+>Associate a Conference to a Topic&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="fullstack">Fullstack&lt;/h4>
+&lt;p>&lt;em>Blog list full-stack app&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/fullstackopen-2021" target="_blank" rel="noopener"
+>Web dev practice&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/bloglist-frontend" target="_blank" rel="noopener"
+>Frontend&lt;/a>: React &amp;amp; Material UI&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/chumvan/bloglist-backend" target="_blank" rel="noopener"
+>Backend&lt;/a>: MongoDB, NodeJS and Express&lt;/li>
+&lt;li>Testing: Cypress and Jest&lt;/li>
+&lt;li>Deploy: Docker &amp;amp; Heroku&lt;/li>
+&lt;/ul>
+&lt;h4 id="backend">Backend&lt;/h4>
+&lt;p>&lt;a class="link" href="https://github.com/chumvan/fullstackopen-2021/tree/main/part8" target="_blank" rel="noopener"
+>&lt;em>Library app&lt;/em>&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>Explore an alternative for communication between browser and server&lt;/li>
+&lt;li>GraphQL(Apollo Client and Server) and Express&lt;/li>
+&lt;/ul>
+&lt;h4 id="aws-using-python">AWS using Python&lt;/h4>
+&lt;p>&lt;em>Auto backup folder&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>An automated process to save CSV files triggered by any change in a selected folder&lt;/li>
+&lt;li>Services: AWS S3 and AWS Lambda&lt;/li>
+&lt;/ul>
+&lt;h4 id="mqtt">MQTT&lt;/h4>
+&lt;p>&lt;em>Implemented a broker in a Raspberry Pi&lt;/em>&lt;/p>
+&lt;h4 id="c">C++&lt;/h4>
+&lt;ul>
+&lt;li>An interactive card game applied OOP concepts for backend and Qt GUI for frontend&lt;/li>
+&lt;li>Many projects during the data structure courses&lt;/li>
 &lt;/ul>
 &lt;h2 id="tech-stack">Tech stack&lt;/h2>
 &lt;h3 id="programming">Programming&lt;/h3>
@@ -203,104 +327,6 @@ Focus study:&lt;/p>
 &lt;li>Industrial Automation &amp;amp; Electrical&lt;/li>
 &lt;li>IIoT/ Signal Processing&lt;/li>
 &lt;li>Embedded system&lt;/li>
-&lt;/ul>
-&lt;h2 id="projects">Projects&lt;/h2>
-&lt;h3 id="aiml-applications">AI/ML applications&lt;/h3>
-&lt;h4 id="kaggle">Kaggle&lt;/h4>
-&lt;p>&lt;a class="link" href="https://www.kaggle.com/c/bird-audio-detection" target="_blank" rel="noopener"
->&lt;em>Competition Audio Detection&lt;/em>&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>~5000 records with/ without bird sounds&lt;/li>
-&lt;li>investigate and reshape data: pandas | plotly&lt;/li>
-&lt;li>apply Mel-bands, FFT points, overlap, and TensorFlow to train a model with a score of 0.708&lt;/li>
-&lt;/ul>
-&lt;h4 id="python-for-aiml">Python for AI/ML&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/REMOS_RPI" target="_blank" rel="noopener"
->Smart bolt for strain monitoring&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/unicycle-mobile-robot-control" target="_blank" rel="noopener"
->Unicycle robot control&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/audio_anomaly_detection" target="_blank" rel="noopener"
->Acoustic predictive maintenance&lt;/a> with triplet network - &lt;a class="link" href="https://dcase.community/challenge2021/task-unsupervised-detection-of-anomalous-sounds" target="_blank" rel="noopener"
->DCASE challenge 2021&lt;/a>&lt;/li>
-&lt;li>Audio signal alignment&lt;/li>
-&lt;li>Audio anomaly detection using embeddings&lt;/li>
-&lt;li>Signal sources separation&lt;/li>
-&lt;li>Multiple projects work applying:
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/ComputerVisionTUT2020" target="_blank" rel="noopener"
->Yolo/SSD&lt;/a>&lt;/li>
-&lt;li>image/audio classification&lt;/li>
-&lt;li>Linear regression&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Predictive propeller maintenance:
-&lt;ul>
-&lt;li>analyze propeller model from Fusion&lt;/li>
-&lt;li>predict downtime using Linear Regression&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h4 id="matlab">MATLAB&lt;/h4>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/EEG_spectral_analysis" target="_blank" rel="noopener"
->EEG&lt;/a> and &lt;a class="link" href="https://github.com/chumvan/BSA" target="_blank" rel="noopener"
->ECG&lt;/a> signal processing&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/spectral_entropy_DOA" target="_blank" rel="noopener"
->Spectral entropy analysis&lt;/a>&lt;/li>
-&lt;li>Digital scale for continuous measurement&lt;/li>
-&lt;li>Real-time strain monitoring from displacement&lt;/li>
-&lt;li>Multiple signal and image processing applications&lt;/li>
-&lt;/ul>
-&lt;h3 id="software-development">Software Development&lt;/h3>
-&lt;h4 id="golang">Golang&lt;/h4>
-&lt;p>&lt;em>Content delivery and transport layer application&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>Golang wrapper for Raspberry Pi SenseHat - &lt;a class="link" href="https://github.com/chumvan/gopysense" target="_blank" rel="noopener"
->gopysense&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/t140" target="_blank" rel="noopener"
->T140&lt;/a> packet format based on &lt;a class="link" href="https://datatracker.ietf.org/doc/html/rfc4103" target="_blank" rel="noopener"
->RFC4103&lt;/a>&lt;/li>
-&lt;li>Microservices implementation:
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/sipRestServer" target="_blank" rel="noopener"
->SIP-REST translator&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/confdb" target="_blank" rel="noopener"
->Associate a Conference to a Topic&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h4 id="fullstack">Fullstack&lt;/h4>
-&lt;p>&lt;em>Blog list full-stack app&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/fullstackopen-2021" target="_blank" rel="noopener"
->Web dev practice&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/bloglist-frontend" target="_blank" rel="noopener"
->Frontend&lt;/a>: React &amp;amp; Material UI&lt;/li>
-&lt;li>&lt;a class="link" href="https://github.com/chumvan/bloglist-backend" target="_blank" rel="noopener"
->Backend&lt;/a>: MongoDB, NodeJS and Express&lt;/li>
-&lt;li>Testing: Cypress and Jest&lt;/li>
-&lt;li>Deploy: Docker &amp;amp; Heroku&lt;/li>
-&lt;/ul>
-&lt;h4 id="backend">Backend&lt;/h4>
-&lt;p>&lt;a class="link" href="https://github.com/chumvan/fullstackopen-2021/tree/main/part8" target="_blank" rel="noopener"
->&lt;em>Library app&lt;/em>&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>Explore an alternative for communication between browser and server&lt;/li>
-&lt;li>GraphQL(Apollo Client and Server) and Express&lt;/li>
-&lt;/ul>
-&lt;h4 id="aws-using-python">AWS using Python&lt;/h4>
-&lt;p>&lt;em>Auto backup folder&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>An automated process to save CSV files triggered by any change in a selected folder&lt;/li>
-&lt;li>Services: AWS S3 and AWS Lambda&lt;/li>
-&lt;/ul>
-&lt;h4 id="mqtt">MQTT&lt;/h4>
-&lt;p>&lt;em>Implemented a broker in a Raspberry Pi&lt;/em>&lt;/p>
-&lt;h4 id="c">C++&lt;/h4>
-&lt;ul>
-&lt;li>An interactive card game applied OOP concepts for backend and Qt GUI for frontend&lt;/li>
-&lt;li>Many projects during the data structure courses&lt;/li>
 &lt;/ul>
 &lt;h2 id="self-motivated-learning">Self-motivated Learning&lt;/h2>
 &lt;h3 id="stream-processing-with-apache-flink-and-flume">Stream processing with Apache Flink and Flume&lt;/h3>
