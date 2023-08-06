@@ -11,7 +11,7 @@ tags:
     - cloud
 ---
 
-When working with Terraform, understanding the sequence in which files are processed can streamline your workflow and minimize potential errors. This guide will break down Terraform's file processing order, inspired by the clarity of Google Cloud's documentation.
+When working with Terraform, understanding the sequence in which files are processed can streamline your workflow and minimize potential errors. This guide will break down Terraform's file processing order.
 
 ### **Why the Order Matters**
 

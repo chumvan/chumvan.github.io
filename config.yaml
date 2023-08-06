@@ -10,7 +10,7 @@ languages:
     weight: 1
 DefaultContentLanguage: en
 hasCJKLanguage: false
-googleAnalytics: G-X3NWY26G99
+googleAnalytics: "G-X3NWY26G99"
 params:
   mainSections:
     - post
