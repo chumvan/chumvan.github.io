@@ -4,10 +4,11 @@ title: "Trung Van"
 
 languages:
   en:
-    languageName: English
-    title: read-trung.md
-    description: a blog about technology, programming, and life
-    weight: 1
+    params:
+      languageName: English
+      title: read-trung.md
+      description: a blog about technology, programming, and life
+      weight: 1
 DefaultContentLanguage: en
 hasCJKLanguage: false
 googleAnalytics: "G-X3NWY26G99"
@@ -103,7 +104,7 @@ markup:
   goldmark:
     renderer:
       ## Set to true if you have HTML content inside Markdown
-      unsafe: false
+      unsafe: true
   tableOfContents:
     endLevel: 4
     ordered: true
