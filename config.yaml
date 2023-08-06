@@ -10,7 +10,7 @@ languages:
     weight: 1
 DefaultContentLanguage: en
 hasCJKLanguage: false
-
+googleAnalytics: G-X3NWY26G99
 params:
   mainSections:
     - post
@@ -24,7 +24,7 @@ params:
 
   sidebar:
     compact: false
-    subtitle: "brain dump for me, but maybe useful for you too"
+    subtitle: "thought and things to re-visit"
     avatar:
       enabled: true
       local: true
