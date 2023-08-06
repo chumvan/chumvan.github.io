@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on read-trung.md</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on read-trung.md</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one&amp;rsquo;s career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don&amp;rsquo;t, I would much rather meet them face-to-face and let them get to know me personally. That is why I invite you to contact me using the details at the end of this page if you share my preference. Otherwise, feel free to browse through the highlights of my professional journey so far.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Trung Van</title><link>https://chumvan.github.io/page/</link><description>Recent content in Pages on Trung Van</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 14 Feb 2023 15:57:50 +0200</lastBuildDate><atom:link href="https://chumvan.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Résumé</title><link>https://chumvan.github.io/page/cv/</link><pubDate>Tue, 14 Feb 2023 15:57:50 +0200</pubDate><guid>https://chumvan.github.io/page/cv/</guid><description>&lt;p>I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one&amp;rsquo;s career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don&amp;rsquo;t, I would much rather meet them face-to-face and let them get to know me personally. That is why I invite you to contact me using the details at the end of this page if you share my preference. Otherwise, feel free to browse through the highlights of my professional journey so far.&lt;/p>
 &lt;p>&lt;em>I certainly will update this page till I find a better way to log this kind of information.&lt;/em>&lt;/p>
 &lt;h2 id="field-of-knowledge">Field of knowledge&lt;/h2>
 &lt;ul>
@@ -367,9 +367,70 @@ Focus study:&lt;/p>
 &lt;li>Professor Jose Lastra from Tampere Univerisities: jose.martinezlastra[at]tuni.fi&lt;/li>
 &lt;li>Professor Rinne Mikael from Aalto University: mikael.rinne[at]aalto.fi&lt;/li>
 &lt;li>Dr.Sc Tech Juhani Henttonen from HAMK: juhani.henttonen[at]hamk.fi&lt;/li>
-&lt;/ul></description></item><item><title>Archives</title><link>https://chumvan.github.io/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/archives/</guid><description/></item><item><title>Contact</title><link>https://chumvan.github.io/page/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/contact/</guid><description>&lt;p>My full name is Van Huu Thanh Trung. You can call me Trung, or Chum if you think I am a cool guy. For work, I speak English and Vietnamese. The best way to communicate with me is face-to-face in a cozy café(I make lists of workable café wherever I go). Otherwise, please reach out for me via:&lt;/p>
-&lt;ul>
-&lt;li>email: vanhuuthanhtrung[at]email.com&lt;/li>
-&lt;li>phone (FI): (+358) 413 134 992&lt;/li>
-&lt;/ul>
+&lt;/ul></description></item><item><title>Archives</title><link>https://chumvan.github.io/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/archives/</guid><description/></item><item><title>Contact</title><link>https://chumvan.github.io/page/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/contact/</guid><description>&lt;p>My full name is Van Huu Thanh Trung. You can call me Trung, or Chum if you think I am a cool guy. For work, I speak English and Vietnamese. The best way to communicate with me is face-to-face in a cozy café(I make lists of workable café wherever I go). Otherwise, please reach out for me via he social links in my bio or quickly via the form below:&lt;/p>
+&lt;style>
+/* Form container */
+.contact-form {
+max-width: 500px;
+margin: 50px auto;
+padding: 20px;
+background-color: #fff;
+border-radius: 8px;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+/* Label styling */
+.contact-form label {
+display: block;
+margin-bottom: 15px;
+font-weight: bold;
+color: #333;
+}
+/* Input and Textarea styling */
+.contact-form input[type="email"],
+.contact-form textarea {
+width: 100%;
+padding: 12px;
+border: 1px solid #e1e1e1;
+border-radius: 4px;
+/* background-color: #f9f9f9; */
+font-size: 16px;
+transition: background-color 0.3s ease;
+}
+.contact-form input[type="email"]:focus,
+.contact-form textarea:focus {
+outline: none;
+background-color: #fff;
+}
+.contact-form textarea {
+height: 150px;
+resize: vertical;
+}
+/* Button styling */
+.contact-form button {
+display: block;
+width: 100%;
+padding: 10px;
+background-color: #333;
+color: #fff;
+border: none;
+border-radius: 4px;
+font-size: 16px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.contact-form button:hover {
+background-color: #555;
+}
+&lt;/style>
+&lt;form class="contact-form" action="https://formspree.io/f/myyqkryn" method="POST">
+&lt;label>
+Trung can reach me at:
+&lt;input type="email" name="email" placeholder="your email here">
+&lt;/label>
+&lt;label>
+My message:
+&lt;textarea name="message" placeholder="type a few words :)">&lt;/textarea>
+&lt;/label>
+&lt;button type="submit">Send&lt;/button>
+&lt;/form>
 &lt;p>Life is beautiful. Take care!&lt;/p></description></item><item><title>Search</title><link>https://chumvan.github.io/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://chumvan.github.io/page/search/</guid><description/></item></channel></rss>
