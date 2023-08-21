@@ -25,9 +25,10 @@ I was initially reluctant to create this page, as I know that many people, mysel
 - Industrial IoT | 5G | Computer Networking | Information Modeling
 
 ## Certificate
-- [AZ-900 Certificate](https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url) - The link didn't work? Try this [pdf](AZ900-certificate.pdf)
-- [AI-900 Certificate](https://www.credly.com/badges/eb2f0c4e-7061-4ce5-a090-dc8f1767bbf1/public_url) - The link didn't work? Try this [pdf](AI900-certificate.pdf)
-- [DP-900 Certificate](https://www.credly.com/badges/24c0a187-628e-4702-ae49-3e35eeffd196/public_url) - The link didn't work? Try this [pdf](DP900-certificate.pdf)
+- [AZ-900 Certificate](https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/7DDACD5F58544A34?sharingId=A54B84CB725301E3) - The link didn't work? Try this [pdf](AZ900-certificate.pdf)
+- [AI-900 Certificate](https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/3140D98F305C9834?sharingId=A54B84CB725301E3) - The link didn't work? Try this [pdf](AI900-certificate.pdf)
+- [DP-900 Certificate](https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/CD956822519A0648?sharingId=A54B84CB725301E3) - The link didn't work? Try this [pdf](DP900-certificate.pdf)
+- [SC-900 Certificate](https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/E84BCC310BE62A36?sharingId=A54B84CB725301E3) - The link didn't work? Try this [pdf](SC900-certificate.pdf)
 - [GCP badges](https://www.cloudskillsboost.google/public_profiles/c63fe0a1-eddd-4e03-8d56-20600082d2ab)
     - Fundamental tasks: Cloud Storage, Identity and Access Management, Cloud Functions, and Pub/Sub
     - Terraform and K8s with GCP
@@ -36,6 +37,12 @@ I was initially reluctant to create this page, as I know that many people, mysel
 ## Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 
 For longer descriptions, click on any link you can find.
+
+### TietoEVRY
+*Cloud IaC team*
+- Provision and deploy cloud infrastructure for TietoEVRY Care's products
+- Automate IaC tasks
+- Adopt new and best practices for the current cloud architectures
 
 ### Ericsson Finland
 *IoT research team*
