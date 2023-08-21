@@ -232,12 +232,14 @@ data-flex-basis="240px"
 &lt;/ul>
 &lt;h2 id="certificate">Certificate&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a class="link" href="https://www.credly.com/badges/ef788792-0e25-449c-b6c4-d4f0964c1e58/public_url" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/7DDACD5F58544A34?sharingId=A54B84CB725301E3" target="_blank" rel="noopener"
 >AZ-900 Certificate&lt;/a> - The link didn&amp;rsquo;t work? Try this &lt;a class="link" href="AZ900-certificate.pdf" >pdf&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.credly.com/badges/eb2f0c4e-7061-4ce5-a090-dc8f1767bbf1/public_url" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/3140D98F305C9834?sharingId=A54B84CB725301E3" target="_blank" rel="noopener"
 >AI-900 Certificate&lt;/a> - The link didn&amp;rsquo;t work? Try this &lt;a class="link" href="AI900-certificate.pdf" >pdf&lt;/a>&lt;/li>
-&lt;li>&lt;a class="link" href="https://www.credly.com/badges/24c0a187-628e-4702-ae49-3e35eeffd196/public_url" target="_blank" rel="noopener"
+&lt;li>&lt;a class="link" href="https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/CD956822519A0648?sharingId=A54B84CB725301E3" target="_blank" rel="noopener"
 >DP-900 Certificate&lt;/a> - The link didn&amp;rsquo;t work? Try this &lt;a class="link" href="DP900-certificate.pdf" >pdf&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://learn.microsoft.com/api/credentials/share/en-us/ThanhTrungVanHuu-4902/E84BCC310BE62A36?sharingId=A54B84CB725301E3" target="_blank" rel="noopener"
+>SC-900 Certificate&lt;/a> - The link didn&amp;rsquo;t work? Try this &lt;a class="link" href="SC900-certificate.pdf" >pdf&lt;/a>&lt;/li>
 &lt;li>&lt;a class="link" href="https://www.cloudskillsboost.google/public_profiles/c63fe0a1-eddd-4e03-8d56-20600082d2ab" target="_blank" rel="noopener"
 >GCP badges&lt;/a>
 &lt;ul>
@@ -252,6 +254,13 @@ data-flex-basis="240px"
 &lt;h2 id="experience">Experience&lt;/h2>
 &lt;p>This is a short list of the position I have been (gratefully) working in for the last few years.
 For longer descriptions, click on any link you can find.&lt;/p>
+&lt;h3 id="tietoevry">TietoEVRY&lt;/h3>
+&lt;p>&lt;em>Cloud IaC team&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>Provision and deploy cloud infrastructure for TietoEVRY Care&amp;rsquo;s products&lt;/li>
+&lt;li>Automate IaC tasks&lt;/li>
+&lt;li>Adopt new and best practices for the current cloud architectures&lt;/li>
+&lt;/ul>
 &lt;h3 id="ericsson-finland">Ericsson Finland&lt;/h3>
 &lt;p>&lt;em>IoT research team&lt;/em>&lt;/p>
 &lt;p>As a Research trainee and then a full-time Researcher, I worked on&lt;/p>
