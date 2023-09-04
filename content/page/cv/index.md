@@ -34,6 +34,8 @@ I was initially reluctant to create this page, as I know that many people, mysel
     - Terraform and K8s with GCP
     - DevOps for web on GCP
 - [GCP Cloud Digital Leader](https://www.credential.net/8edd237c-902d-4448-9b90-f7f017593511#gs.yifyrw) - The link doesn't work? Try this [pdf](GCP-cdl.pdf)
+- [Terraform Associate 003](https://www.credly.com/badges/483f1058-8ed0-4f2f-b0aa-d325b7a113cf/public_url) - The link doesn't work? Try this [pdf](TF.pdf)
+
 ## Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 
 For longer descriptions, click on any link you can find.
