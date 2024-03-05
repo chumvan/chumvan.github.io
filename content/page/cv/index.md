@@ -15,9 +15,9 @@ menu:
             icon: resume 
 ---
 
-I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one's career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don't, I would much rather meet them face-to-face and let them get to know me personally. That is why I invite you to contact me using the details at the end of this page if you share my preference. Otherwise, feel free to browse through the highlights of my professional journey so far.
-
-*I certainly will update this page till I find a better way to log this kind of information.*
+> I was initially reluctant to create this page, as I know that many people, myself included, are not fond of lengthy texts. Yet I also realized that sometimes they are necessary, especially when one wants to convey a comprehensive picture of one's career and achievements. Perhaps there are some readers who enjoy absorbing this kind of information in this format. For those who don't, I would much rather meet them face-to-face and let them get to know me personally. That is why I invite you to contact me using the details at the end of this page if you share my preference. Otherwise, feel free to browse through the highlights of my professional journey so far.
+> 
+> *I certainly will update this page till I find a better way to log this kind of information.*
 
 ## Field of knowledge 
 - Streaming and Event-based system | Cloud Native Solutions
@@ -35,6 +35,8 @@ I was initially reluctant to create this page, as I know that many people, mysel
     - DevOps for web on GCP
 - [GCP Cloud Digital Leader](https://www.credential.net/8edd237c-902d-4448-9b90-f7f017593511#gs.yifyrw) - The link doesn't work? Try this [pdf](GCP-cdl.pdf)
 - [Terraform Associate 003](https://www.credly.com/badges/483f1058-8ed0-4f2f-b0aa-d325b7a113cf/public_url) - The link doesn't work? Try this [pdf](TF.pdf)
+- [Databricks Generative AI Fundamentals](https://credentials.databricks.com/45b37622-de70-4026-b17e-35d67e8e43f4)
+- [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/8e4fa074-1495-4016-b035-d6b57a433440)
 
 ## Experience
 This is a short list of the position I have been (gratefully) working in for the last few years. 
@@ -305,6 +307,6 @@ Focus:
 - Professor Tuomas Virtanen from Tampere Universities: tuomas.virtanen[at]tuni.fi
 - Professor Jose Lastra from Tampere Univerisities: jose.martinezlastra[at]tuni.fi
 - Professor Rinne Mikael from Aalto University: mikael.rinne[at]aalto.fi
-- Dr.Sc Tech Juhani Henttonen from HAMK: juhani.henttonen[at]hamk.fi
+- Dr. Sc Tech Juhani Henttonen from HAMK: juhani.henttonen[at]hamk.fi
 
 

@@ -4,6 +4,7 @@ date: 2023-08-06T11:38:18+03:00
 draft: false
 slug: tf_loading
 image: cover.jpg
+draft: true
 categories:
     - post
 tags:
