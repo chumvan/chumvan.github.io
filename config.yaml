@@ -1,13 +1,13 @@
 baseURL: "https://chumvan.github.io/"
 languageCode: "en-us"
-title: "Trung Van"
+title: "Chum Van"
 
 languages:
   en:
     params:
       languageName: English
       title: read-trung.md
-      description: a blog about technology, programming, and life
+      description: Chum's personal blog
       weight: 1
 DefaultContentLanguage: en
 hasCJKLanguage: false
@@ -25,11 +25,11 @@ params:
 
   sidebar:
     compact: false
-    subtitle: "thought and things to re-visit"
+    subtitle: "in here for out there"
     avatar:
       enabled: true
       local: true
-      src: img/frog.png
+      src: img/chum.png
   article:
     math: false
     toc: true
